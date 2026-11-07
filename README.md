@@ -50,6 +50,10 @@ Then open https://localhost:54321. For web server, database and production setup
 [Getting Started guide](https://mahocommerce.com/about/getting-started/) and the
 [official Docker images](https://hub.docker.com/r/mahocommerce/maho).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Maho/)
+
 ## For developers
 
 ### The stack
